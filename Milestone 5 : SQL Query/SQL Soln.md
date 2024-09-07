@@ -1,4 +1,4 @@
-1. Gender distribution of respondents from India:
+1. Gender distribution of respondents from India:/n
 --- SELECT Gender, COUNT(*) AS Count
 FROM Dataset
 WHERE Country = 'India'
