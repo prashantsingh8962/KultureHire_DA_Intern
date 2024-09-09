@@ -9,6 +9,8 @@ Columns to Consider:
 *If you believe there are other relevant columns for this dashboard, feel free to incorporate them into your design
 
 
+
+
 ## Manager Aspirations Dashboard
 This dashboard aims to analyze the respondents' preferences and willingness to work under certain conditions, such as abusive managers, remote work, and daily work hours.
 
@@ -19,6 +21,8 @@ Columns to Consider:
 - Minimum Expected Salary (First 3 Years)
 - Minimum Expected Salary (After 5 Years)
 *If you believe there are other relevant columns for this dashboard, feel free to incorporate them into your design.
+
+
 
 
 ## Mission Aspirations Dashboard
